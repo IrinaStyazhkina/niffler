@@ -103,6 +103,7 @@ Dmitriis-MacBook-Pro niffler % vi /etc/hosts
 ```
 
 #### 10. Запустить фронтенд
+- Для этого необходимо перейти в папку с кодо фронтенда (niffler-frontend) и выполнить `npm start`
 ```posh
 Dmitriis-MacBook-Pro niffler % cd niffler-frontend
 Dmitriis-MacBook-Pro niffler-auth % npm start
